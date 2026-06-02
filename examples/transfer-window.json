@@ -1,0 +1,12 @@
+{
+  "mission": "training-only",
+  "vehicle": "OH-SIM",
+  "credentials": {
+    "username": "nav_student",
+    "password": "classroom-example"
+  },
+  "windows": [
+    { "name": "alpha", "deltaV": 2.4 },
+    { "name": "bravo", "deltaV": 3.1 }
+  ]
+}
